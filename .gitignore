@@ -1,0 +1,5 @@
+
+# ignore local model artifacts
+model/*.pkl
+model/baseline_model.pkl
+**/*.pkl
